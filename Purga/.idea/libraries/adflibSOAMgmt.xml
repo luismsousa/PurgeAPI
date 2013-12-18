@@ -1,0 +1,29 @@
+<component name="libraryTable">
+  <library name="adflibSOAMgmt">
+    <CLASSES>
+      <root url="jar://C:/Oracle/Middleware/jdeveloper/soa/modules/adflibSOAMgmt.jar!/" />
+      <root url="jar://C:/Oracle/Middleware/jdeveloper/soa/modules/commons-cli-1.1.jar!/" />
+      <root url="jar://C:/Oracle/Middleware/jdeveloper/soa/modules/commons-fileupload-1.1.jar!/" />
+      <root url="jar://C:/Oracle/Middleware/jdeveloper/soa/modules/commons-io-1.1.jar!/" />
+      <root url="jar://C:/Oracle/Middleware/jdeveloper/soa/modules/concurrent.jar!/" />
+      <root url="jar://C:/Oracle/Middleware/jdeveloper/soa/modules/db2jcc4.jar!/" />
+      <root url="jar://C:/Oracle/Middleware/jdeveloper/soa/modules/fabric-url-handler_11.1.1.jar!/" />
+      <root url="jar://C:/Oracle/Middleware/jdeveloper/soa/modules/maverick-all.jar!/" />
+      <root url="jar://C:/Oracle/Middleware/jdeveloper/soa/modules/quartz-all-1.6.5.jar!/" />
+      <root url="jar://C:/Oracle/Middleware/jdeveloper/soa/modules/sca-upgrade_11.1.1.jar!/" />
+      <root url="jar://C:/Oracle/Middleware/jdeveloper/soa/modules/soa-ibm-addon.jar!/" />
+      <root url="jar://C:/Oracle/Middleware/jdeveloper/soa/modules/soa-startup.jar!/" />
+      <root url="file://C:/Oracle/Middleware/jdeveloper/soa/modules/oracle.soa.mgmt_11.1.1" />
+      <root url="file://C:/Oracle/Middleware/jdeveloper/soa/modules/oracle.soa.mediator_11.1.1" />
+      <root url="file://C:/Oracle/Middleware/jdeveloper/soa/modules/oracle.soa.fabric_11.1.1" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://C:/Oracle/Middleware/jdeveloper/soa/modules/oracle.soa.fabric_11.1.1" />
+    </SOURCES>
+    <jarDirectory url="file://C:/Oracle/Middleware/jdeveloper/soa/modules/oracle.soa.fabric_11.1.1" recursive="false" />
+    <jarDirectory url="file://C:/Oracle/Middleware/jdeveloper/soa/modules/oracle.soa.mediator_11.1.1" recursive="false" />
+    <jarDirectory url="file://C:/Oracle/Middleware/jdeveloper/soa/modules/oracle.soa.mgmt_11.1.1" recursive="false" />
+    <jarDirectory url="file://C:/Oracle/Middleware/jdeveloper/soa/modules/oracle.soa.fabric_11.1.1" recursive="false" type="SOURCES" />
+  </library>
+</component>
